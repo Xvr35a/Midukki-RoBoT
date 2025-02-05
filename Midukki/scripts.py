@@ -1,11 +1,10 @@
 START_TXT = """
-Hello 👋 {mention} 
+Hello {mention} 
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
+I'm <b>{bot}</b> 
+i can give you scen pack through my group
 
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
 
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
 """
 
 HELP_TXT = """
@@ -18,7 +17,7 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 - /start : Starts me! You've probably already used this!.
 - /help : Sends this message; I'll tell you more about models!
 - /about : Sends this message; I'll tell you more about myself!
-- /donate : Gives you info on how to support me and my creator!
+- /donate : Gives you info on how to support me!
 
 <b>All commands can be used with the following: [ / ]</b>
 """
@@ -27,7 +26,7 @@ ABOUT_TXT = """
 [{name}](t.me/{username}) Was created on September 4, 2022
 We are currently developing this bot, using only the Pyrogram library.
 
-➾ Developers : Muhammed
+➾ Developers : Arjun
 ➾ Language : Python3
 ➾ Framework : Pyrogram
 ➾ Database : Mongo db
@@ -36,9 +35,9 @@ We are currently developing this bot, using only the Pyrogram library.
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
-Dev : [Muhammed](t.me/Pr0fess0r_99)
-Paytm : [Click Here](https://p.paytm.me/xCTH/7yzmtgie)
-  or UPI `motech8129@okaxis`
+Dev : [ARJUN](t.me/arjuuhney)
+Google pay : UPI `arjuneeh@oksbi`
+Phone pay : UPI `9074488238@axl`
 """
 
 STATUS_TXT = """
